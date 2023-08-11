@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nagendranice
 - 👀 I’m interested in playing with the data 
-- 🌱 I’m currently learning to build a recommendation system for a Instagram Reels kind of app.
+- 🌱 I’m currently working as a data engineer and exploring computer vision.
 - 💞️ I’m looking to collaborate on any projects involving data and data science
 - 📫 You can reach me at nagendranice29@gmail.com
 
